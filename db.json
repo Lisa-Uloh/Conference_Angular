@@ -1,0 +1,64 @@
+{
+    "speakers":[
+        {
+            "id": 1,
+            "name": "Lisa Uloh",
+            "image": "../assets/img/bg-img/lisa.jpg",
+            "profession": "Founder",
+            "facebook":"https://www.facebook.com/lisa.uloh",
+            "lnkedln":"https://www.facebook.com/lisa.uloh",
+            "instagram":"https://www.facebook.com/lisa.uloh",
+            "twitter":"https://www.facebook.com/lisa.uloh"
+        },
+        {
+            "id": 2,
+            "name": "Albert Barnes",
+            "image": "../assets/img/bg-img/albert.webp",
+            "profession": "Product Analyst",
+            "facebook":"https://www.facebook.com/lisa.uloh",
+            "lnkedln":"https://www.facebook.com/lisa.uloh",
+            "instagram":"https://www.facebook.com/lisa.uloh",
+            "twitter":"https://www.facebook.com/lisa.uloh"
+        },
+        {
+            "id": 3,
+            "name": "Patricia Stanley",
+            "image": "../assets/img/bg-img/patricia.webp",
+            "profession": "Product Lead",
+            "facebook":"https://www.facebook.com/lisa.uloh",
+            "lnkedln":"https://www.facebook.com/lisa.uloh",
+            "instagram":"https://www.facebook.com/lisa.uloh",
+            "twitter":"https://www.facebook.com/lisa.uloh"
+        },
+        {
+            "id": 4,
+            "name": "Evelyn Stone",
+            "image": "../assets/img/bg-img/evelyn.webp",
+            "profession": "Photographer",
+            "facebook":"https://www.facebook.com/lisa.uloh",
+            "lnkedln":"https://www.facebook.com/lisa.uloh",
+            "instagram":"https://www.facebook.com/lisa.uloh",
+            "twitter":"https://www.facebook.com/lisa.uloh"
+        },
+        {
+            "id": 5,
+            "name": "Susan Hopkins",
+            "image": "../assets/img/bg-img/susan.webp",
+            "profession": "UX Manager",
+            "facebook":"https://www.facebook.com/lisa.uloh",
+            "lnkedln":"https://www.facebook.com/lisa.uloh",
+            "instagram":"https://www.facebook.com/lisa.uloh",
+            "twitter":"https://www.facebook.com/lisa.uloh"
+        },
+        {
+            "id": 6,
+            "name": "Michael Fowler",
+            "image": "../assets/img/bg-img/michael.webp",
+            "profession": "Product Design",
+            "facebook":"https://www.facebook.com/lisa.uloh",
+            "lnkedln":"https://www.facebook.com/lisa.uloh",
+            "instagram":"https://www.facebook.com/lisa.uloh",
+            "twitter":"https://www.facebook.com/lisa.uloh"
+        }
+    ]
+}
