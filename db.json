@@ -14,7 +14,7 @@
             "id": 2,
             "name": "Albert Barnes",
             "image": "../assets/img/bg-img/albert.webp",
-            "profession": "Product Analyst",
+            "profession": "System Analyst",
             "facebook":"https://www.facebook.com/lisa.uloh",
             "lnkedln":"https://www.facebook.com/lisa.uloh",
             "instagram":"https://www.facebook.com/lisa.uloh",
@@ -24,7 +24,7 @@
             "id": 3,
             "name": "Patricia Stanley",
             "image": "../assets/img/bg-img/patricia.webp",
-            "profession": "Product Lead",
+            "profession": "Cybersecurity Lead",
             "facebook":"https://www.facebook.com/lisa.uloh",
             "lnkedln":"https://www.facebook.com/lisa.uloh",
             "instagram":"https://www.facebook.com/lisa.uloh",
@@ -34,7 +34,7 @@
             "id": 4,
             "name": "Evelyn Stone",
             "image": "../assets/img/bg-img/evelyn.webp",
-            "profession": "Photographer",
+            "profession": "Software Researcher",
             "facebook":"https://www.facebook.com/lisa.uloh",
             "lnkedln":"https://www.facebook.com/lisa.uloh",
             "instagram":"https://www.facebook.com/lisa.uloh",
@@ -54,11 +54,114 @@
             "id": 6,
             "name": "Michael Fowler",
             "image": "../assets/img/bg-img/michael.webp",
-            "profession": "Product Design",
+            "profession": "System Design",
             "facebook":"https://www.facebook.com/lisa.uloh",
             "lnkedln":"https://www.facebook.com/lisa.uloh",
             "instagram":"https://www.facebook.com/lisa.uloh",
             "twitter":"https://www.facebook.com/lisa.uloh"
+        }
+    ],
+
+    "monSchedules":[
+        {
+            "image":"https://www.conferencecast.tv/blog/content/images/2021/11/image3.jpg",
+            "topic":"Data and Informatics",
+            "time":"12th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Lisa Uloh",
+            "position":"CEO"
+        },
+        {
+            "image":"https://imageio.forbes.com/specials-images/imageserve/5ee2978b434cc00006720d80/0x0.jpg?format=jpg&width=1200",
+            "topic":"Artificial intelligence",
+            "time":"12th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Albert Barnes",
+            "position":"System Analyst"
+        },
+        {
+            "image":"https://riskandinsurance.com/wp-content/uploads/2020/07/Biometric-700-by-525.jpg",
+            "topic":"Biometrics",
+            "time":"12th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Patricia Standley",
+            "position":"Cybersecurity Lead"
+        },
+        {
+            "image":"https://ictacademy.com.ng/wp-content/uploads/2020/09/1-ngkHgQq7ij1NBNr62er3zA.png",
+            "topic":"Cloud Computing and Visualization",
+            "time":"12th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Evelyn Stone",
+            "position":"Software Researcher"
+        }
+    ],
+    "tueSchedules":[
+        {
+            "image":"https://imageio.forbes.com/specials-images/imageserve/5f9fa9e815da35da1356a28b/The-5-Biggest-Cloud-Computing-Trends-In-2021/960x0.jpg?format=jpg&width=960",
+            "topic":"Computational Science",
+            "time":"13th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Susan Hopkins",
+            "position":"UX Manager"
+        },
+        {
+            "image":"https://upload.wikimedia.org/wikipedia/commons/0/00/Complex-adaptive-system.jpg",
+            "topic":"Complex Systems",
+            "time":"13th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Micheal Fowler",
+            "position":"System Design"
+        },
+        {
+            "image":"https://miu.edu.ng/wp-content/uploads/2021/06/cyber-security-tips-for-smbs-940x588-1.jpg",
+            "topic":"Cybersecurity",
+            "time":"13th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Patricia Standley",
+            "position":"Cybersecurity Lead"
+        },
+        {
+            "image":"https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/08/cybersecurity.jpeg.jpg",
+            "topic":"Cyberphysical systems",
+            "time":"13th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Patricia Standley",
+            "position":"Cybersecurity Lead"
+        }
+    ],
+    "wedSchedules":[
+        {
+            "image":"https://i0.wp.com/classnotes.ng/wp-content/uploads/2020/04/internet-communication-classnotesng.jpg?resize=488%2C366&ssl=1",
+            "topic":"Networking",
+            "time":"14th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Susan Hopkins",
+            "position":"UX Manager"
+        },
+        {
+            "image":"https://assets.telegraphindia.com/telegraph/2022/Feb/1645256492_resized-pic13.jpg",
+            "topic":"Internet of Things",
+            "time":"14th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Lisa Uloh",
+            "position":"Founder"
+        },
+        {
+            "image":"https://www.breachlock.com/wp-content/uploads/2019/09/V_C_3.jpg",
+            "topic":"Software Research",
+            "time":"14th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Evelyn Stone",
+            "position":"Software Researcher"
+        },
+        {
+            "image":"https://verhaert.digital/wp-content/uploads/2019/03/1543235389_shutterstock1064850707.jpg",
+            "topic":"Video Analytics",
+            "time":"14th December 2022",
+            "location":"LandMark, Victoria Island, Lagos",
+            "speaker":"Albert Barnes",
+            "position":"System Analyst"
         }
     ]
 }

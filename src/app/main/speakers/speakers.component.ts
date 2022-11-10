@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Entry } from 'contentful';
+import { SpeakersService } from 'src/app/services/speakers.service';
 
 
 @Component({
@@ -10,10 +11,14 @@ import { Entry } from 'contentful';
 })
 export class SpeakersComponent implements OnInit {
 
-  constructor() { }
+  speaker:any;
 
-  ngOnInit(): void {
-    
+  constructor(private service: SpeakersService) { }
+
+  ngOnInit(){
+    this.service.getSpeakers().subscribe((response) => {
+      this.speaker = response;
+    });
   }
 
 }

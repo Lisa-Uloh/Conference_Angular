@@ -1,26 +1,18 @@
 import { Component, OnInit } from '@angular/core';
 import { ScheduleService } from 'src/app/services/schedule.service';
-import { SpeakersService } from 'src/app/services/speakers.service';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrls: ['./home.component.css']
+  selector: 'app-schedule',
+  templateUrl: './schedule.component.html',
+  styleUrls: ['./schedule.component.css']
 })
-export class HomeComponent implements OnInit {
-
-  speaker:any;
+export class ScheduleComponent implements OnInit {
   monday:any;
   tuesday:any;
   wednesday:any;
+  constructor(private schedule: ScheduleService) { }
 
-  constructor(private service: SpeakersService, private schedule: ScheduleService) { }
-
-  ngOnInit(){
-    this.service.getSpeakers().subscribe(response => {
-      this.speaker = response;
-    });
-
+  ngOnInit(): void {
     this.schedule.monday().subscribe(response =>{
       this.monday = response;
     })
